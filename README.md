@@ -10,7 +10,7 @@
 ## General Information
 X Education is in need of a model that can assess and assign lead scores to each potential customer. These scores will serve as indicators of the likelihood of a lead converting into a paying customer, allowing the company to prioritize leads with higher conversion potential. The CEO has set a goal of achieving an 80% lead conversion rate.In the initial stages, the company acquires numerous leads, but only a fraction of them ultimately become paying customers. To improve lead conversion rates, it is crucial to effectively nurture potential leads. This entails providing them with information about the product and maintaining consistent communication. The mid-stage nurturing process plays a significant role in influencing lead conversion rates positively.
 ## Conclusions
-1) The consistency of evaluation metrics across both the test and train datasets indicates the model's reliable performance across various criteria.
+1) The uniformity of evaluation metrics between the test and train datasets signifies that the model consistently performs well across a diverse set of criteria.
 
 2) Using a threshold value of 0.39, the model secured a sensitivity of approximately 75.19% in the train set and around 76.97% in the test set. Sensitivity, in this context, reflects the model's accuracy in identifying converting leads out of all potential conversion candidates.
 
